@@ -1,0 +1,15 @@
+package.xml
+setup.cfg
+setup.py
+../../build/alyPacote/alyPacote.egg-info/PKG-INFO
+../../build/alyPacote/alyPacote.egg-info/SOURCES.txt
+../../build/alyPacote/alyPacote.egg-info/dependency_links.txt
+../../build/alyPacote/alyPacote.egg-info/entry_points.txt
+../../build/alyPacote/alyPacote.egg-info/requires.txt
+../../build/alyPacote/alyPacote.egg-info/top_level.txt
+../../build/alyPacote/alyPacote.egg-info/zip-safe
+alyPacote/__init__.py
+resource/alyPacote
+test/test_copyright.py
+test/test_flake8.py
+test/test_pep257.py

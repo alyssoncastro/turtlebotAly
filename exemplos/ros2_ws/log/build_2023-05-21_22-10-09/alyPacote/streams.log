@@ -1,0 +1,36 @@
+[0.680s] Invoking command in '/home/alyssoncordeiro/turtleBot/models/m6-ec-encontro1/exemplos/ros2_ws/src/alyPacote': PYTHONPATH=/home/alyssoncordeiro/turtleBot/models/m6-ec-encontro1/exemplos/ros2_ws/build/alyPacote/prefix_override:/home/alyssoncordeiro/turtleBot/models/m6-ec-encontro1/exemplos/ros2_ws/install/alyPacote/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/alyPacote build --build-base /home/alyssoncordeiro/turtleBot/models/m6-ec-encontro1/exemplos/ros2_ws/build/alyPacote/build install --record /home/alyssoncordeiro/turtleBot/models/m6-ec-encontro1/exemplos/ros2_ws/build/alyPacote/install.log --single-version-externally-managed
+[0.947s] running egg_info
+[0.948s] creating ../../build/alyPacote/alyPacote.egg-info
+[0.948s] writing ../../build/alyPacote/alyPacote.egg-info/PKG-INFO
+[0.949s] writing dependency_links to ../../build/alyPacote/alyPacote.egg-info/dependency_links.txt
+[0.949s] writing entry points to ../../build/alyPacote/alyPacote.egg-info/entry_points.txt
+[0.949s] writing requirements to ../../build/alyPacote/alyPacote.egg-info/requires.txt
+[0.949s] writing top-level names to ../../build/alyPacote/alyPacote.egg-info/top_level.txt
+[0.950s] writing manifest file '../../build/alyPacote/alyPacote.egg-info/SOURCES.txt'
+[0.951s] reading manifest file '../../build/alyPacote/alyPacote.egg-info/SOURCES.txt'
+[0.952s] writing manifest file '../../build/alyPacote/alyPacote.egg-info/SOURCES.txt'
+[0.952s] running build
+[0.952s] running build_py
+[0.953s] creating /home/alyssoncordeiro/turtleBot/models/m6-ec-encontro1/exemplos/ros2_ws/build/alyPacote/build
+[0.953s] creating /home/alyssoncordeiro/turtleBot/models/m6-ec-encontro1/exemplos/ros2_ws/build/alyPacote/build/lib
+[0.953s] creating /home/alyssoncordeiro/turtleBot/models/m6-ec-encontro1/exemplos/ros2_ws/build/alyPacote/build/lib/alyPacote
+[0.953s] copying alyPacote/__init__.py -> /home/alyssoncordeiro/turtleBot/models/m6-ec-encontro1/exemplos/ros2_ws/build/alyPacote/build/lib/alyPacote
+[0.953s] running install
+[0.954s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[0.954s]   warnings.warn(
+[0.954s] running install_lib
+[0.955s] creating /home/alyssoncordeiro/turtleBot/models/m6-ec-encontro1/exemplos/ros2_ws/install/alyPacote/lib/python3.10/site-packages/alyPacote
+[0.955s] copying /home/alyssoncordeiro/turtleBot/models/m6-ec-encontro1/exemplos/ros2_ws/build/alyPacote/build/lib/alyPacote/__init__.py -> /home/alyssoncordeiro/turtleBot/models/m6-ec-encontro1/exemplos/ros2_ws/install/alyPacote/lib/python3.10/site-packages/alyPacote
+[0.956s] byte-compiling /home/alyssoncordeiro/turtleBot/models/m6-ec-encontro1/exemplos/ros2_ws/install/alyPacote/lib/python3.10/site-packages/alyPacote/__init__.py to __init__.cpython-310.pyc
+[0.956s] running install_data
+[0.956s] creating /home/alyssoncordeiro/turtleBot/models/m6-ec-encontro1/exemplos/ros2_ws/install/alyPacote/share/ament_index
+[0.957s] creating /home/alyssoncordeiro/turtleBot/models/m6-ec-encontro1/exemplos/ros2_ws/install/alyPacote/share/ament_index/resource_index
+[0.957s] creating /home/alyssoncordeiro/turtleBot/models/m6-ec-encontro1/exemplos/ros2_ws/install/alyPacote/share/ament_index/resource_index/packages
+[0.957s] copying resource/alyPacote -> /home/alyssoncordeiro/turtleBot/models/m6-ec-encontro1/exemplos/ros2_ws/install/alyPacote/share/ament_index/resource_index/packages
+[0.957s] copying package.xml -> /home/alyssoncordeiro/turtleBot/models/m6-ec-encontro1/exemplos/ros2_ws/install/alyPacote/share/alyPacote
+[0.957s] running install_egg_info
+[0.960s] Copying ../../build/alyPacote/alyPacote.egg-info to /home/alyssoncordeiro/turtleBot/models/m6-ec-encontro1/exemplos/ros2_ws/install/alyPacote/lib/python3.10/site-packages/alyPacote-0.0.0-py3.10.egg-info
+[0.961s] running install_scripts
+[0.986s] Installing aly_entrypoint script to /home/alyssoncordeiro/turtleBot/models/m6-ec-encontro1/exemplos/ros2_ws/install/alyPacote/lib/alyPacote
+[0.986s] writing list of installed files to '/home/alyssoncordeiro/turtleBot/models/m6-ec-encontro1/exemplos/ros2_ws/build/alyPacote/install.log'
+[1.018s] Invoked command in '/home/alyssoncordeiro/turtleBot/models/m6-ec-encontro1/exemplos/ros2_ws/src/alyPacote' returned '0': PYTHONPATH=/home/alyssoncordeiro/turtleBot/models/m6-ec-encontro1/exemplos/ros2_ws/build/alyPacote/prefix_override:/home/alyssoncordeiro/turtleBot/models/m6-ec-encontro1/exemplos/ros2_ws/install/alyPacote/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/alyPacote build --build-base /home/alyssoncordeiro/turtleBot/models/m6-ec-encontro1/exemplos/ros2_ws/build/alyPacote/build install --record /home/alyssoncordeiro/turtleBot/models/m6-ec-encontro1/exemplos/ros2_ws/build/alyPacote/install.log --single-version-externally-managed

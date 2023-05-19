@@ -1,0 +1,6 @@
+source;share/alyPacote/hook/pythonpath.ps1
+source;share/alyPacote/hook/pythonpath.dsv
+source;share/alyPacote/hook/pythonpath.sh
+source;share/alyPacote/hook/ament_prefix_path.ps1
+source;share/alyPacote/hook/ament_prefix_path.dsv
+source;share/alyPacote/hook/ament_prefix_path.sh

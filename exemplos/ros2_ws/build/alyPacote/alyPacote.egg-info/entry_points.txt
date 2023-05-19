@@ -1,0 +1,3 @@
+[console_scripts]
+aly_entrypoint = alyPacote:hello_world
+
